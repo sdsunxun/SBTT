@@ -1,0 +1,20 @@
+\begin{minipage}[t]{0.15\linewidth}
+  \centering
+  \includegraphics[width=1.7cm]{figs/detectresult_set12_scpda.pdf}
+    \vspace{-0.45in}
+  \begin{center}
+    \footnotesize
+    \hspace{0.4in}SCPDA
+  \end{center}
+\end{minipage}
+
+
+\begin{minipage}[t]{0.15\linewidth}
+  \centering
+  \includegraphics[width=1.7cm]{figs/detectresult_set12_gcm.pdf}
+  \vspace{-0.45in}
+  \begin{center}
+    \footnotesize
+    \hspace{0.4in}GCM
+  \end{center}
+\end{minipage}
